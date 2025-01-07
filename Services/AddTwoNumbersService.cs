@@ -15,10 +15,11 @@ namespace MiniChallengeTwoToFour_Endpoints.Services
             //enter anything here to run first
         } 
 
-        public int AddTwoNumbers(int num1, int num2)
+        public string AddTwoNumbers(int num1, int num2)
         {
             sum = num1+num2;
-            return sum;
+            string sumStr="The sum of "+ num1+" and " +num2+ " is " +sum+".";
+            return sumStr;
         }
     }
 }

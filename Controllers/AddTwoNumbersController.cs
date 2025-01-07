@@ -21,7 +21,7 @@ namespace MiniChallengeTwoToFour_Endpoints.Controllers
 
         [HttpGet]
         [Route("GetSumOfTwoNumbers/{num1}/{num2}")]
-        public int AddTwoNumbers(int num1, int num2)
+        public string AddTwoNumbers(int num1, int num2)
         {
             return _addTwoNumbersService.AddTwoNumbers(num1, num2);
           

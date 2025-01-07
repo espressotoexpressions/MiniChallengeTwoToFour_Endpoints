@@ -30,3 +30,4 @@
 /Users/karen/Desktop/Codestack/Level2/MiniChallengeTwoToFour_Endpoints/obj/Debug/net8.0/MiniChallengeTwoToFour_Endpoints.pdb
 /Users/karen/Desktop/Codestack/Level2/MiniChallengeTwoToFour_Endpoints/obj/Debug/net8.0/MiniChallengeTwoToFour_Endpoints.genruntimeconfig.cache
 /Users/karen/Desktop/Codestack/Level2/MiniChallengeTwoToFour_Endpoints/obj/Debug/net8.0/ref/MiniChallengeTwoToFour_Endpoints.dll
+/Users/karen/Desktop/Codestack/Level2/MiniChallengeTwoToFour_Endpoints/obj/Debug/net8.0/MiniChallengeTwoToFour_Endpoints.sourcelink.json
